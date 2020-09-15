@@ -1,5 +1,40 @@
 /* CSS Document */
 *, *::after, *::before {
-  box-sizing:border-box;  
+  box-sizing:border-box; 
+  font-family: sans-serif; 
 }
 
+
+ul { 
+  display:flex;
+  flex-grow: 2;
+  right: 100px;
+ }
+
+ li{
+ display:block;
+}
+
+h1 {
+  font-size: 5vw;
+  color:white;
+position:absolute;
+top:8em;
+left:2em;
+}
+
+#top{
+  max-width:76%;
+  display:block;
+}
+
+h2{
+  font-size:15px;
+}
+#wap{
+max-width:30%;
+}
+#logo{
+  position:sticky;
+  right:4em;
+}

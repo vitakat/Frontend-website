@@ -19,7 +19,6 @@
 **Screenshot(s):**
 ![alt text](/images/screenshot.png "Screenshot 1")
 ![alt text](/images/screenshot3.png "Screenshot 2")
-
 ![alt text](/images/screenshot2.png "Huidige browser app")
 
 -screenshot(s) van je eindresultaat-

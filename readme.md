@@ -42,7 +42,8 @@ Het structuur is lastig, Ik dacht dat <banner> bestaat maar uiteindelijk heb ik 
 **Screenshot(s):**
 
 -screenshot(s) van hoe ver je bent-
-
+![alt text](/images/screenshot11.png "Screenshot 1")
+![alt text](/images/screenshot22.png "Screenshot 2")
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-

@@ -6,7 +6,8 @@
 
 ## Bronnenlijst
 1. -[De website die ik koos:](https://soundcloud.com/)-
-2.-[foto's die ik gebruikte:] (https://soundcloud.com/majormyjah/cry)-
+2. -[foto's die ik gebruikte:] (https://soundcloud.com/majormyjah/cry)-
+3.-[Codepen:] (https://codepen.io/vitakat)-
 3. -...-
 
 

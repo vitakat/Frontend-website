@@ -5,9 +5,9 @@
 
 
 ## Bronnenlijst
-1. -[De website die ik koos:](https://soundcloud.com/)-
-2. -[foto's die ik gebruikte:] (https://soundcloud.com/majormyjah/cry)-
-3.-[Codepen:] (https://codepen.io/vitakat)-
+1. -[De website die ik koos:](https://soundcloud.com/)
+-
+2. -bron 2-
 3. -...-
 
 
@@ -17,7 +17,8 @@
 -dit ging goed & dit was lastig-
 
 **Screenshot(s):**
-
+![alt text](/images/sreenshot.png "Screenshot 1")
+![alt text](/images/sreenshot2.png "Huidige browser app")
 
 -screenshot(s) van je eindresultaat-
 
@@ -39,12 +40,12 @@
 
 ### Stand van zaken
 
-Het structuur is lastig, Ik dacht dat <banner> bestaat maar uiteindelijk heb ik het met een <img> opgelost.
+-dit ging goed & dit was lastig-
+
 **Screenshot(s):**
 
 -screenshot(s) van hoe ver je bent-
-![alt text](/images/screenshot11.png "Screenshot 1")
-![alt text](/images/screenshot22.png "Screenshot 2")
+
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
@@ -64,14 +65,10 @@ Het structuur is lastig, Ik dacht dat <banner> bestaat maar uiteindelijk heb ik 
 **Je opdracht:** -[De website die ik koos:](https://soundcloud.com/)
 
 **Screenshot(s):**
-![alt text](/images/screenshot.png "Screenshot 1")
-![alt text](/images/screenshot3.png "Screenshot 2")
-![alt text](/images/screenshot2.png "Huidige browser app")
 
-![alt text](/images/screenshot.png "Screenshot 1")
+![alt text](/images/screenshot "Screenshot 1")
 
 **Breakdown-schets(en):**
-![alt text](/images/breakdown2.jpg "Trending en Homepage mobiele Breakdown")
 
 ![alt text](/images/breakdown.jpg "Homepage Breakdown")
 

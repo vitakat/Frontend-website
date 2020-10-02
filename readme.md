@@ -66,7 +66,7 @@
 
 **Screenshot(s):**
 
-![alt text](/images/screenshot "Screenshot 1")
+![alt text](/images/screenshot.jpg "Screenshot 1")
 
 **Breakdown-schets(en):**
 

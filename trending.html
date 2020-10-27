@@ -1,32 +1,88 @@
 <!doctype html>
 <html lang="nl">
 <script src="scripts/script.js"></script>
+
 <head>
 	<meta charset="UTF-8">
 	<meta name="author" content="Vita Sznaider">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
+
 	<title>Soundcloud</title>
-	
+
 	<link href="styles/style.css" rel="stylesheet">
 </head>
 <header>
-	 <nav>
-     <img alt="logo" src="images/logo.png">
-</nav>
+	<nav>
+		<ol id="navje">
+			<li><img id="logo" src="images/logo.png"></li>
+			<li><button id="search1"><img id="search" src="images/search.png"></button></li>
+		</ol>
+	</nav>
 </header>
 
 <body>
-<img id="puppa"alt="trending" src="images/puppa.png">
-<h2>Likes</h2>
-    
-<ol><li><img class="iconen"alt="djtia" src="images/djtia.jpg"> <li>DJ TIA</li>&#9654;</li></ol>
-<ol><li><img class="iconen"alt="Major Myjah" src="images/majormojah.jpg"> <li>Major Mojah</li>&#9654;</li></ol>
-<footer>
-    <p>Enjoy the full SoundCloud experience with our app. <button id="appstore"> Download</button></p>
-        </footer>
+	<section id="openapp"><button id="opap">Luisteren op de SoundCloud app</button></section>
+	<img id="puppa" alt="trending" src="images/puppa.png">
+	<div class="container">
+		<div class="app">
+			<div class="pause">
+				<div class="line line_1"></div>
+				<div class="line line_2"></div>
+			</div>
+			<div class="play active">
+				<div class="line line_1"></div>
+				<div class="line line_2"></div>
+				<div class="line line_3"></div>
+			</div>
+		</div>
+	</div>
+	<h1 id="trending">Trending</h1>
+	<h2 id="trending2">Los Angeles</h2>
+	<h3>Likes</h3>
+	<hr>
+	<ul class="items">
+		<li>
+			<img class="iconen" alt="Wap" src="images/djtia.jpg">
+			<div>
+				<div>
+					<h3>DJ TIA</h3>
+					<strong class="info11">22:50</strong>
+				</div>
+				<p class="info12">PAY UP MIX</p>
+			</div>
+		</li>
+		<li>
+			<img class="iconen" alt="MajorMyjah" src="images/majormojah.jpg">
+			<div>
+				<div>
+					<h3>Major Myjah</h3>
+					<strong class="info11">3:24</strong>
+				</div>
+				<p class="info12">I Can't Breathe</p>
+			</div>
+		</li>
+		<li>
+			<img class="iconen" alt="MajorMyjah2" src="images/MajorMyjah.jpg">
+			<div>
+				<div>
+					<h3>Major Mojah</h3>
+					<strong class="info11">5:41</strong>
+				</div>
+				<p class="info12">Come Get Me feat. James Fauntleroy</p>
+
+			</div>
+		</li>
+	</ul>
+
+	<footer>
+		<span id="footer1">Geniet van de complete SoundCloud-ervaring met onze app.</span> <button id="appstore"><img
+				id="appp" src="images/appstore.png"></button>
+		<h5 id="foot">Juridisch - Privacy - Cookies - Impressum - Gebruikerslijst</h5>
+		<h5 id="foot2">Taal:</h5>
+		<h5 id="foot3"> Nederlands</h5>
+	</footer>
 </body>
 
 
-	
+
 </html>

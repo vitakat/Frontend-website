@@ -17,8 +17,8 @@
 -dit ging goed & dit was lastig-
 
 **Screenshot(s):**
-![alt text](/images/screenshot.png "Screenshot 1")
-![alt text](/images/screenshot2.png "Huidige browser app")
+![alt text](/images/sreenshot.png "Screenshot 1")
+![alt text](/images/sreenshot2.png "Huidige browser app")
 
 -screenshot(s) van je eindresultaat-
 
@@ -66,7 +66,7 @@
 
 **Screenshot(s):**
 
-![alt text](/images/screenshot.jpg "Screenshot 1")
+![alt text](/images/screenshot "Screenshot 1")
 
 **Breakdown-schets(en):**
 

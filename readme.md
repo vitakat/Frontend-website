@@ -7,7 +7,8 @@
 ## Bronnenlijst
 1. -[De website die ik koos:](https://m.soundcloud.com/)-
 2. -[Play/Pause knop tutorial](https://www.youtube.com/watch?v=TqLhpWCfdQ4&t=343s)-
-3. -...-
+3. -[Foto's](https://blog.soundcloud.com/2020/)-
+
 
 
 
@@ -19,8 +20,9 @@
 
 
 ![Eindresultaat](/images/imgs/nu3.png "Home pagina")
-![Eindresultaat 3](/images/imgs/nu2.png "Trending pagina 2")
 ![Eindresultaat 2](/images/imgs/nu.png "Trending pagina")
+![Eindresultaat 3](/images/imgs/nu2.png "Trending pagina 2")
+
 
 
 ## Voortgang 3 (week 6)

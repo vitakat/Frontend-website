@@ -13,15 +13,14 @@
 
 ## Eindgesprek (week 7/8)
 
--Ik kom erachter dat je de css van websites kan weergeven op je browser en dat maakt het makkelijker om elementen de correcte witte ruimte te geven, maar het kostte veel tijd en moeite, de tekst kon ik nog steeds niet vast aan de header foto plakken en die beweegt mee met het scherm. Goed: De website is echt bijna hetzelfde als de oorspronkelijke. -
+-Ik kom erachter dat je de css van websites kan weergeven op je browser en dat maakt het makkelijker om elementen de correcte witte ruimte te geven, maar het kostte veel tijd en moeite, de tekst kon ik nog steeds niet vast aan de header foto plakken en die beweegt mee met het scherm. Goed: De website is echt bijna hetzelfde als de oorspronkelijke. Javascript doet het eindelijk! Dat van de inlevering- witte ruimte tussen elementen is ook gecontroleerd nadat ik met margin speelde-
 
 **Screenshot(s):**
 
 
 ![Eindresultaat](/images/imgs/nu3.png "Home pagina")
-![Eindresultaat 2](/images/imgs/nu.png "Trending pagina")
 ![Eindresultaat 3](/images/imgs/nu2.png "Trending pagina 2")
-
+![Eindresultaat 2](/images/imgs/nu.png "Trending pagina")
 
 
 ## Voortgang 3 (week 6)
@@ -82,7 +81,7 @@ Alles is nog steeds lastig. De structuur van mijn website is nog steeds onduidel
 
 ### Verslag van meeting
 
--Ik moest: een formulier met input maken vanuit de zoek img. (form input type text button) en vooral mobile first maken.
+-Ik moest: een formulier met input maken vanuit de zoek img. (form input type text button) en eronder "open met app" ook zonder img maken- en vooral mobile first .-
 
 
 ## Intake (week 1)

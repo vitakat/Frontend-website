@@ -1,6 +1,6 @@
 var pause = document.querySelector('.pause');
 var play = document.querySelector('.play');
-var btn = document.querySelector('#app');
+var btn = document.querySelector('.app');
 
 btn.addEventListener('click', () => {
     if( play.classList.contains("active") )
@@ -14,3 +14,5 @@ btn.addEventListener('click', () => {
         play.classList.add("active");
     }
 })
+
+

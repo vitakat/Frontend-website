@@ -100,3 +100,5 @@ Alles is nog steeds lastig. De structuur van mijn website is nog steeds onduidel
 **Breakdown-schets(en):**
 
 ![Breakdown schets](/images/breakdown.jpg "Homepage Breakdown")
+
+

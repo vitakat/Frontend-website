@@ -133,7 +133,7 @@ h2, a {
   height: 60px;
   width:60px;
   align-items: center;
-  margin:2px;
+  margin:10px;
 }
 
 li {
@@ -185,6 +185,8 @@ bottom:5px; left:5px;
   top:4vw;
   white-space: nowrap;
   overflow:hidden;
+  padding: 5px 0 0 0;
+  margin:0;
 }
 strong{
   font-weight:lighter;
@@ -220,10 +222,11 @@ a:hover {
   color: #bcbcbc;
   flex-grow: 1;
   padding:0 0 10px 0;
+  margin:12px;
 }
 
 .items li {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.8em;
 }
 
 .items h3, .info11 {
@@ -232,17 +235,18 @@ a:hover {
 
 .items li>div {
   padding: 0.3em;
-  margin:0.1em;
   width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  margin:0;
 }
 
 .items li>div>div {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  margin:0;
 }
 
 h3 {
